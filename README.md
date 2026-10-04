@@ -38,4 +38,4 @@ Missing CpG observations are retained as missing values rather than being treate
 
 ## Reproducibility
 
-The original analysis notebook is retained as part of the project record. A cleaned and documented version can be developed separately after the initial analysis.
+The repository contains the final analysis notebook documenting the data-processing workflow, methylation variability analysis, visualizations, results, and methodological limitations.
